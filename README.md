@@ -14,12 +14,6 @@
 
 </div>
 
-## 💬 联系我们
-
-- **官网**: https://i.daka1.com
-- **邮箱**: yao@01cr.cn
-- **QQ**: 18453551（优先）
-
 ## 📋 项目简介
 
 Passer-admin 是一个功能强大的综合打卡管理系统，专为教育机构和企业设计，支持多个主流平台的自动打卡和报告提交功能。系统基于现代化的技术栈构建，提供稳定、高效、易用的打卡解决方案。
@@ -34,74 +28,13 @@ Passer-admin 是一个功能强大的综合打卡管理系统，专为教育机�
 - **权限管理**: 完整的用户权限和角色管理
 - **数据统计**: 详细的打卡记录和统计分析
 
-## 🏗️ 技术架构
+## 💬 联系我们
 
-### 后端技术栈
-- **框架**: Spring Boot 3.3.1
-- **数据库**: MySQL 8.0+
-- **ORM**: MyBatis Plus 3.5.7
-- **缓存**: Redis + Redisson
-- **权限**: Sa-Token 1.41.0
-- **文档**: Knife4j 4.4.0
-- **工具**: Hutool 5.8.29
+- **官网**: https://i.daka1.com
+- **邮箱**: yao@01cr.cn
+- **QQ**: 18453551（优先）
 
-### 前端技术栈
-- **框架**: Vue 3.4.27
-- **构建**: Vite 5.2.12
-- **UI库**: Ant Design Vue 4.2.6
-- **状态管理**: Pinia 2.1.7
-- **路由**: Vue Router 4.3.2
-- **HTTP**: Axios 1.6.8
-
-## 🚀 快速开始
-
-### 环境要求
-
-- **Java**: 17+
-- **Node.js**: 18+
-- **MySQL**: 8.0+
-- **Redis**: 6.0+
-- **Maven**: 3.6+
-
-### 安装步骤
-
-#### 1. 克隆项目
-```bash
-git clone https://github.com/yunjietu/Passer-admin.git
-cd passer-admin
-```
-
-#### 2. 数据库初始化
-```bash
-# 执行数据库脚本
-mysql -u root -p < sql/smart_admin_v3.sql
-
-# 执行更新脚本（按版本顺序）
-mysql -u root -p < sql/sql-update-log/v3.15.0.sql
-mysql -u root -p < sql/sql-update-log/v3.18.0.sql
-mysql -u root -p < sql/sql-update-log/v3.21.0.sql
-mysql -u root -p < sql/sql-update-log/v3.23.0.sql
-```
-
-#### 3. 后端启动
-```bash
-cd smart-admin-api-java17
-mvn clean install
-mvn spring-boot:run
-```
-
-#### 4. 前端启动
-```bash
-cd smart-admin-web-javascript
-npm install
-npm run dev
-```
-
-#### 5. 访问系统
-- **管理后台**: http://localhost:8081
-- **API文档**: http://localhost:8081/doc.html
-- **职校家园查询**: http://localhost:8081/#/zhxiao
-- **企业查询**: http://localhost:8081/#/gs
+- **程序纯源价格限时2xxx💰，联系付款后进入私人仓库源码持续同步更新**
 
 ## 📱 功能模块
 
@@ -194,6 +127,75 @@ npm run dev
 </table>
 
 </div>
+
+## 🏗️ 技术架构
+
+### 后端技术栈
+- **框架**: Spring Boot 3.3.1
+- **数据库**: MySQL 8.0+
+- **ORM**: MyBatis Plus 3.5.7
+- **缓存**: Redis + Redisson
+- **权限**: Sa-Token 1.41.0
+- **文档**: Knife4j 4.4.0
+- **工具**: Hutool 5.8.29
+
+### 前端技术栈
+- **框架**: Vue 3.4.27
+- **构建**: Vite 5.2.12
+- **UI库**: Ant Design Vue 4.2.6
+- **状态管理**: Pinia 2.1.7
+- **路由**: Vue Router 4.3.2
+- **HTTP**: Axios 1.6.8
+
+## 🚀 快速开始
+
+### 环境要求
+
+- **Java**: 17+
+- **Node.js**: 18+
+- **MySQL**: 8.0+
+- **Redis**: 6.0+
+- **Maven**: 3.6+
+
+### 安装步骤
+
+#### 1. 克隆项目
+```bash
+git clone https://github.com/yunjietu/Passer-admin.git
+cd passer-admin
+```
+
+#### 2. 数据库初始化
+```bash
+# 执行数据库脚本
+mysql -u root -p < sql/smart_admin_v3.sql
+
+# 执行更新脚本（按版本顺序）
+mysql -u root -p < sql/sql-update-log/v3.15.0.sql
+mysql -u root -p < sql/sql-update-log/v3.18.0.sql
+mysql -u root -p < sql/sql-update-log/v3.21.0.sql
+mysql -u root -p < sql/sql-update-log/v3.23.0.sql
+```
+
+#### 3. 后端启动
+```bash
+cd smart-admin-api-java17
+mvn clean install
+mvn spring-boot:run
+```
+
+#### 4. 前端启动
+```bash
+cd smart-admin-web-javascript
+npm install
+npm run dev
+```
+
+#### 5. 访问系统
+- **管理后台**: http://localhost:8081
+- **API文档**: http://localhost:8081/doc.html
+- **职校家园查询**: http://localhost:8081/#/zhxiao
+- **企业查询**: http://localhost:8081/#/gs
 
 ## 🔧 配置说明
 
