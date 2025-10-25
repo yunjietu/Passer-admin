@@ -14,6 +14,12 @@
 
 </div>
 
+## 💬 联系我们
+
+- **官网**: https://i.daka1.com
+- **邮箱**: yao@01cr.cn
+- **QQ**: 18453551（优先）
+
 ## 📋 项目简介
 
 Passer-admin 是一个功能强大的综合打卡管理系统，专为教育机构和企业设计，支持多个主流平台的自动打卡和报告提交功能。系统基于现代化的技术栈构建，提供稳定、高效、易用的打卡解决方案。
@@ -351,12 +357,6 @@ Copyright (c) [2025] [云界途科技]
 - [Ant Design Vue](https://antdv.com) - UI组件库
 - [Spring Boot](https://spring.io/projects/spring-boot) - 后端框架
 - [Vue.js](https://vuejs.org) - 前端框架
-
-## 📞 联系我们
-
-- **官网**: https://www.daka1.com
-- **邮箱**: yao@01cr.cn
-- **QQ**: 18453551
 
 ---
 
