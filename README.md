@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Passer-admin](https://i.daka1.com/0313e12a4a7b4a11bfd5792cb517e67f_20251015004006%20(1).svg)
+![Passer-admin](https://api.daka1.com/api/upload/public/common/df37edda63cc456594a9b39c355e46ca_20251124145350.jpg)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.1-brightgreen.svg)
 ![Vue](https://img.shields.io/badge/Vue-3.4.27-4FC08D.svg)
 ![Java](https://img.shields.io/badge/Java-17-orange.svg)
